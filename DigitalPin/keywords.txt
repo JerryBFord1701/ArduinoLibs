@@ -1,0 +1,11 @@
+DigitalOutPin	KEYWORD1
+myPin	KEYWORD1
+Count	KEYWORD2
+begin	EYWORD2
+on	KEYWORD2
+off	KEYWORD2
+status	KEYWORD2
+GetCountHigh	KEYWORD2
+SetCountHigh	KEYWORD2
+GetPinNumber	KEYWORD2
+SetPinNumber	KEYWORD2
